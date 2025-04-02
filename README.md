@@ -1,4 +1,4 @@
-# Farm Alert System
+# Atomatic watering system
 This program waters plant automatically when the moisture levels are below optimum levels with minimal input by farmer.
 # Requirements:
 1. Arduino IDE
